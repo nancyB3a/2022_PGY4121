@@ -1,0 +1,7 @@
+{
+  "name": "EjemploPGY4121",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
